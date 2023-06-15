@@ -1,4 +1,4 @@
-![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
+![MasterHead](https://aspireinfolabs.com/static/media/blog_cover_7.b10ac410.jpeg)
 <h1 align="center">Hi 👋, I'm Raghav Kashyap</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <!-- <div style="border-radius: 10px;"> -->
