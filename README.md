@@ -1,4 +1,4 @@
-![MasterHead](https://aspireinfolabs.com/static/media/blog_cover_7.b10ac410.jpeg)
+![MasterHead](https://drive.google.com/uc?export=view&id=1gBvu1S-fQr0DNTsz195opM7rXISNRc6j)
 <h1 align="center">Hi 👋, I'm Raghav Kashyap</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <!-- <div style="border-radius: 10px;"> -->
