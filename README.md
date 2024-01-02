@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Raghav Kashyap</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <!-- <div style="border-radius: 10px;"> -->
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<img align="right" alt="coding" width="400" src="https://drive.google.com/uc?export=view&id=1Jn8SYg79S7gkasG9mEeljZL8HhObz1X5" >
 <!--  </div> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-0311&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-0311" /> </p>
